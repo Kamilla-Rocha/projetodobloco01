@@ -34,7 +34,7 @@ public class Jeep {
 		 
 		 System.out.println();
 		 System.out.println("A cada 6.7 km rodados o Jeep Renegade ");
-		 System.out.println("Jogando" + resultado+"kg de Co2 na atmosfera");
+		 System.out.println("Jogando" + resultado+"kg de Gas carbônico na atmosfera");
 	 }
 	 
      public static void opção2() {
@@ -43,7 +43,7 @@ public class Jeep {
 		 
 		 System.out.println();
 		 System.out.println("A cada 10.3 km rodados o Jeep Compass");
-		 System.out.println("Jogando" + resultado+"kg de Co2 na atmosfera");
+		 System.out.println("Jogando" + resultado+"kg de Gas carbônico na atmosfera");
 
 }
        
@@ -53,7 +53,7 @@ public class Jeep {
 		 
 		 System.out.println();
 		 System.out.println("A cada 9.5 km rodados o Jeep Commander ");
-		 System.out.println("Jogando" + resultado+"kg de Co2 na atmosfera");
+		 System.out.println("Jogando" + resultado+"kg de Gas carbônico na atmosfera");
 
         }
         
