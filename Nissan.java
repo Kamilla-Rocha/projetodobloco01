@@ -17,7 +17,7 @@ package br.com.generation.projetobloco01;
 					static double [] litrokmNissan = {8.9,12.9,7.8};
 					
 					static int opção, opção6;
-					static double Co2 = 7773;
+					static double Co2 = 0.157;
 					static double resultado;
 					
 					public static void listademodelos() {
@@ -37,7 +37,7 @@ package br.com.generation.projetobloco01;
 						
 						System.out.println();
 						System.out.println("A cada 8.9km rodados o Nissan Frontier gasta" + litrokmNissan [0] );
-						System.out.println("JOGANDO"+resultado+"kg de Co2 na atmosfera");
+						System.out.println("JOGANDO"+resultado+"kg de Gas carbônico na atmosfera");
 						
 					}
 						
@@ -48,7 +48,7 @@ package br.com.generation.projetobloco01;
 				        	
 				        	System.out.println();
 				        	System.out.println("A cada 12.9km rodados o Nissan versa gasta" + litrokmNissan [1]);
-				        	System.out.println("Jogando" + resultado+"kg de co2 na  atmosfera");
+				        	System.out.println("Jogando" + resultado+"kg de Gas carbônico na  atmosfera");
 				        	
 				        }
 				        
@@ -58,7 +58,7 @@ package br.com.generation.projetobloco01;
 				        	
 				        	System.out.println();
 				        	System.out.println("A cada 7.8km rodados o Nissan versa gasta" + litrokmNissan [2]);
-				        	System.out.println("Jogando" + resultado+"kg de co2 na  atmosfera");
+				        	System.out.println("Jogando" + resultado+"kg de Gas carbônico na  atmosfera");
 				        
 				        	
 				        	
